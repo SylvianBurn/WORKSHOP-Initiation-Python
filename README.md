@@ -9,18 +9,11 @@ Repo contenant les solutions et exercices pour mon workshop initiation au python
 
 # 4) Trouver le plus grand diviseur commun entre 2 nombres
 
-# 5) Résoudre une équation quadratique en utisant la formule quadratique ??
+# 5) Multiplication de matrice
+# 6) Convertisser des degré en radians et inversement
 
-# 6) Trouver le plus petit multiple commun entre 2 nombres
+# 7) Calculer la distance entre 2 points dans un espace 2D ou 3D
 
-# 7) Génerer un nombre aléatoire dans une intervalle donnée et regarder s'il est premier
+# 8) Récuparation des arguments
 
-# 8) Calculer la surface de différentes formes comme un triangle, un rectangle ou un cercle
-
-# 9) Convertisser des degré en radianqs et inversement
-
-# 10) Calculer la distance entre 2 points dans un espace 2D ou 3D
-
-# 11) Récuparation des arguments
-
-# 12) Lecture de fichier et parsing
+# 9) Lecture de fichier et parsing
