@@ -20,3 +20,7 @@ Repo contenant les solutions et exercices pour mon workshop initiation au python
 # 9) Convertisser des degré en radianqs et inversement
 
 # 10) Calculer la distance entre 2 points dans un espace 2D ou 3D
+
+# 11) Récuparation des arguments
+
+# 12) Lecture de fichier et parsing
