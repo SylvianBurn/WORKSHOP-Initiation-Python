@@ -9,6 +9,9 @@ Les thèmes abordés seront les suivant :
 - lecture et parsing d'un fichier
 - calcul matriciel
 
+## Exercice 0:
+Récupération des arguments.
+
 ## Exercice 1:
 Calculer et imprimer le factoriel d'un nombre X donné en argument.
 [Article wikipédia](https://fr.wikipedia.org/wiki/Factorielle)
