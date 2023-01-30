@@ -31,7 +31,7 @@ Prendre le premier argument donné en radian et imprimer sa conversion en degré
 [Site donnant les equations de conversion et pour vérifier vos résultats](https://www.rapidtables.com/convert/number/radians-to-degrees.html)
 
 ## Exercice 6:
-Multiplication d'une matrice par un vecteur.
+Multiplication d'une matrice par un vecteur avec les données ci-dessous.
 ```python
     matrix = [
         [3, 7, 13, 3],
@@ -48,6 +48,8 @@ Les coordonnées des points seront données en argument.
 [Calcul de distance sur un plan](https://www.alloprof.qc.ca/fr/eleves/bv/mathematiques/math-la-distance-entre-deux-points-m1311)
 
 ## Exercice 8:
-Lescture et parsing d'un fichier dont le chemin vous sera donné en argument. Les fichiers à parser se situe dans le dossier data.
+Lecture et parsing d'un fichier dont le chemin vous sera donné en argument. Les fichiers à parser se situe dans le dossier data.
+
+Correction seront disponibles à la fin du workshop sur ce [lien](https://github.com/SylvianBurn/WORKSHOP-Initiation-Python)
 
 Par Sylvian BURN - 30 janvier 2023
