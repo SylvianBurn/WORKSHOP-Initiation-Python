@@ -9,8 +9,8 @@ Repo contenant les solutions et exercices pour mon workshop initiation au python
 
 # 4) Trouver le plus grand diviseur commun entre 2 nombres
 
-# 5) Multiplication de matrice
-# 6) Convertisser des degré en radians et inversement
+# 5) Convertisser des degré en radians et inversement
+# 6) Multiplication de matrice
 
 # 7) Calculer la distance entre 2 points dans un espace 2D ou 3D
 
